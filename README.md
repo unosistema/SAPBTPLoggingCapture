@@ -1,0 +1,2 @@
+# SAPBTPLoggingCapture
+SAP BTPのApplication Logging Serviceをキャプチャするツールです
